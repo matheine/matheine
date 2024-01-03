@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML, CSS, PHP, Javascript (ReactNative, Electron & Express)
+- 👨‍💻 I'm coding with PHP, Swift and Python
+- 🌱 I’m currently learning JS
 
 - 📫 How to reach me: Email (management@marcel-theiner.de)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to make music :)
--->
